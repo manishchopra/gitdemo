@@ -10,6 +10,7 @@ namespace WebApplication23
 {
     public class MvcApplication : System.Web.HttpApplication
     {
+        //This is a comment from branch b1
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
